@@ -1,0 +1,1178 @@
+{
+  "vendors": [
+    {
+      "id": "seed-1",
+      "name": "Veronica Martinez",
+      "permit": "2059",
+      "member": "T-285659",
+      "business": "La Chica de los Buzos",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "seed-2",
+      "name": "María Alejandra Lovaine",
+      "permit": "2283",
+      "member": "368056",
+      "business": "Ohlulu home",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "seed-3",
+      "name": "Mariana Cotroneo",
+      "permit": "1328",
+      "member": "153044",
+      "business": "Hilando sueños",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": [],
+      "note": "En el mensaje figura además Nro de socio 1328 y número de inscripción al club 153044."
+    },
+    {
+      "id": "seed-4",
+      "name": "Analía Soledad Orliacq",
+      "permit": "2020",
+      "member": "A-288276",
+      "business": "Bella Luz",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": [],
+      "note": "Seres mágicos y aromas especiales"
+    },
+    {
+      "id": "seed-5",
+      "name": "Sabrina Paolisso",
+      "permit": "2483",
+      "member": "A-481564",
+      "business": "Le toille aromas",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": [],
+      "note": "Holística - aromaterapia"
+    },
+    {
+      "id": "seed-6",
+      "name": "Liliana Pavone",
+      "permit": "1699",
+      "member": "T-151826",
+      "business": "Corazón de Tiza",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "seed-7",
+      "name": "Elizabeth Mercedes Ramos",
+      "permit": "2525",
+      "member": "A-494947",
+      "business": "Espacio Bioletta",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "seed-8",
+      "name": "Vanina Giuseppucci",
+      "permit": "2392",
+      "member": "A-445363",
+      "business": "De Pixel A Pieza",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "seed-9",
+      "name": "Silvia Polizzi",
+      "permit": "2296",
+      "member": "A-363940",
+      "business": "Sinplu",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "seed-10",
+      "name": "Lorena Finelli",
+      "permit": "1728",
+      "member": "A-152582",
+      "business": "Meraki by lola",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "seed-11",
+      "name": "Daniela Paula Sánchez",
+      "permit": "2173",
+      "member": "A-336093",
+      "business": "Kairós, Rincón Mágico",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "seed-12",
+      "name": "Patricia Hermida",
+      "permit": "2492",
+      "member": "A-480854",
+      "business": "Boho Spirit BA",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": [],
+      "note": "Ayudante: Graciela Hermida."
+    },
+    {
+      "id": "seed-13",
+      "name": "Nilda Teresa Burone",
+      "permit": "2186",
+      "member": "",
+      "business": "Desdeelalma.3f",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "seed-14",
+      "name": "Antonella Dinatale",
+      "permit": "",
+      "member": "A-214422",
+      "business": "I Choose Violence",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "seed-15",
+      "name": "Myriam",
+      "permit": "",
+      "member": "1856",
+      "business": "La Tucu gastronomía",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "seed-16",
+      "name": "Micaela Giuseppucci",
+      "permit": "",
+      "member": "A-474219",
+      "business": "Glitter Diseños",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "seed-17",
+      "name": "Jesús Morales",
+      "permit": "",
+      "member": "A-487589",
+      "business": "Montecristo accesorios",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "dab54a01-571b-4033-b33f-3ff5b1326579",
+      "name": "Alejandra Campos Perez",
+      "permit": "2523",
+      "member": "302770",
+      "business": "La Petra Artesanías",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "62ed91d7-7da0-4600-99bb-1ee5b749b5c1",
+      "name": "Emilio Napolillo emprendimiento ",
+      "permit": "342 ",
+      "member": "",
+      "business": "budines eye",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "6beeb5db-3407-49fd-ab09-e1a9ad820355",
+      "name": "Facundo Mariscal",
+      "permit": "2521",
+      "member": "",
+      "business": "-",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "c7fdfc65-d5a0-4e74-bb69-49b814839649",
+      "name": "Camila Soto",
+      "permit": "2524",
+      "member": "",
+      "business": "-",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "78428ff5-8f0e-4f96-97fa-3ccbe99d4531",
+      "name": "ruth Maribelly chavez",
+      "permit": "2518",
+      "member": "",
+      "business": "-",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "eb81576e-a265-4e76-91a3-5fd6622b31e1",
+      "name": "Ligia Ramon Detta",
+      "permit": "2265",
+      "member": "",
+      "business": "-",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "0387a60f-f32e-40f6-97b5-379a58eb228b",
+      "name": "Christian Cisneros",
+      "permit": "2218",
+      "member": "",
+      "business": "-",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "4d05dd47-8393-4f3c-bf17-8be5bdf0c26f",
+      "name": "Maria Nina Ceriani",
+      "permit": "2211",
+      "member": "",
+      "business": "Personalizarte",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "916a0206-a4f7-4ae8-aadd-03705545b53a",
+      "name": "Gabriela Alejandra Guerra",
+      "permit": "1694",
+      "member": "A179157",
+      "business": "LlenaloDstickers",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "6d9e8a2a-9117-49e2-a711-db120c4508d5",
+      "name": "Gemma Caridad Bayon Hernandez",
+      "permit": "2033",
+      "member": "",
+      "business": "brillarte",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "ec257933-5006-47cb-96b6-842dbc5bb813",
+      "name": "silvia Rosana Valverde",
+      "permit": "-",
+      "member": "",
+      "business": "mi angel artesanias y deco ",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "9e8ab7cd-a325-4640-93f5-2b791b0ae9c8",
+      "name": "Teresa Nilda Burone",
+      "permit": "2186",
+      "member": "",
+      "business": "Desde el alma.3f",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "3c92395f-d1e6-4a16-b149-83ad4531e5c2",
+      "name": "Carolina gisella Ramirez",
+      "permit": "",
+      "member": "",
+      "business": "delplas 3D",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "5d2a66d3-8682-44ff-b8b0-b1e17f785a82",
+      "name": "Noemi Antonia Gonzalez Frontino",
+      "permit": "-",
+      "member": "AI-372332",
+      "business": "Pretamania",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    },
+    {
+      "id": "c318d163-87ee-45bb-8ea2-daaf53b11c03",
+      "name": "Marina Villalba soto",
+      "permit": "1534",
+      "member": "-",
+      "business": "blusasmavis",
+      "balance": 0,
+      "payments": [],
+      "participations": [],
+      "docs": []
+    }
+  ],
+  "fairs": [
+    {
+      "id": "bd647448-a8dd-442a-9181-167a84755cf2",
+      "type": "Euca",
+      "date": "2026-08-20",
+      "time": "14:00 a 19:00",
+      "status": "realizada",
+      "modules": [
+        {
+          "id": "cb7c20e3-0481-4b2c-8c1c-48c511078a4a",
+          "size": 5,
+          "slots": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ],
+      "participants": [
+        {
+          "vendorId": "seed-4",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-6",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-9",
+          "paid": true,
+          "amount": 8000,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-11",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "62ed91d7-7da0-4600-99bb-1ee5b749b5c1",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-7",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-5",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "ec257933-5006-47cb-96b6-842dbc5bb813",
+          "paid": true,
+          "amount": 8000,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "916a0206-a4f7-4ae8-aadd-03705545b53a",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-17",
+          "paid": true,
+          "amount": 8000,
+          "creditApplied": false
+        }
+      ],
+      "price": 8000
+    },
+    {
+      "id": "2b0b65ad-281f-4b3d-bf97-0ba310ee967a",
+      "type": "Euca",
+      "date": "2026-08-21",
+      "time": "11:00 a 19:00",
+      "status": "realizada",
+      "participants": [
+        {
+          "vendorId": "9e8ab7cd-a325-4640-93f5-2b791b0ae9c8",
+          "paid": true,
+          "amount": 7000,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "dab54a01-571b-4033-b33f-3ff5b1326579",
+          "paid": true,
+          "amount": 7000,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-11",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-4",
+          "paid": true,
+          "amount": 7000,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-6",
+          "paid": true,
+          "amount": 7000,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-15",
+          "paid": true,
+          "amount": 7000,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-1",
+          "paid": true,
+          "amount": 7000,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-5",
+          "paid": true,
+          "amount": 7000,
+          "creditApplied": false
+        }
+      ],
+      "price": 8000
+    },
+    {
+      "id": "3e598fb7-c62f-402c-9aa1-da7ffda99a0e",
+      "type": "Euca",
+      "date": "2026-08-22",
+      "time": "14:00 a 19:00",
+      "status": "suspendida",
+      "participants": [],
+      "price": 8000
+    },
+    {
+      "id": "0c409216-202d-4b56-88e6-f3120fd46dbb",
+      "type": "Plate",
+      "date": "2026-08-23",
+      "time": "14:00 a 19:00",
+      "status": "suspendida",
+      "participants": []
+    },
+    {
+      "id": "aef8d7e3-2d84-4ad1-9339-eed1c479d3c6",
+      "type": "Euca",
+      "date": "2026-08-27",
+      "time": "11:00 a 19:00",
+      "status": "pendiente",
+      "participants": [
+        {
+          "vendorId": "seed-3",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-11",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "ec257933-5006-47cb-96b6-842dbc5bb813",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-5",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-6",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "62ed91d7-7da0-4600-99bb-1ee5b749b5c1",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "916a0206-a4f7-4ae8-aadd-03705545b53a",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        }
+      ],
+      "price": 8000
+    },
+    {
+      "id": "6b3fd42e-866d-41aa-ad2b-10c23649d60c",
+      "type": "Euca",
+      "date": "2026-08-28",
+      "time": "11:00 a 19:00",
+      "status": "pendiente",
+      "participants": [
+        {
+          "vendorId": "seed-7",
+          "paid": true,
+          "amount": 8000,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-9",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-3",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-15",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-11",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "dab54a01-571b-4033-b33f-3ff5b1326579",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-5",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-13",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-6",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "916a0206-a4f7-4ae8-aadd-03705545b53a",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-1",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        }
+      ],
+      "price": 8000
+    },
+    {
+      "id": "c8ea9edb-bbdf-42d4-b623-79925f71966e",
+      "type": "Euca",
+      "date": "2026-08-29",
+      "time": "11:00 a 19:00",
+      "status": "pendiente",
+      "participants": [
+        {
+          "vendorId": "seed-9",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-15",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-1",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "seed-11",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        },
+        {
+          "vendorId": "5d2a66d3-8682-44ff-b8b0-b1e17f785a82",
+          "paid": false,
+          "amount": 0,
+          "creditApplied": false
+        }
+      ],
+      "price": 8000
+    },
+    {
+      "id": "35eb9ce1-bf17-4722-9b3b-1eeff57be094",
+      "type": "Plate",
+      "date": "2026-08-30",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "872f2ca8-5b78-4d9d-a034-5fa98910928d",
+      "type": "Euca",
+      "date": "2026-09-03",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "d331ea6e-ab2a-4f26-8ab8-1ba10b98ba62",
+      "type": "Euca",
+      "date": "2026-09-04",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "5c15c38b-57d5-4c05-a7c3-a85d3ebb3973",
+      "type": "Euca",
+      "date": "2026-09-05",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "9a196b56-3a10-46c4-ad8e-534f9b827291",
+      "type": "Plate",
+      "date": "2026-09-06",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "5547a275-d6fa-4c70-9bec-eb3560716cbd",
+      "type": "Euca",
+      "date": "2026-09-10",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "7d6edb1e-12a4-47d4-9042-ff927ce9ae9d",
+      "type": "Euca",
+      "date": "2026-09-11",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "b3ff595a-9478-42e9-b9b6-0bc793be86d1",
+      "type": "Euca",
+      "date": "2026-09-12",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "7401fca2-7981-489f-994a-d3a29a4ea0a0",
+      "type": "Plate",
+      "date": "2026-09-13",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "444f2592-af1d-463a-bfaa-c866932eb84d",
+      "type": "Euca",
+      "date": "2026-09-17",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "b36e88f7-ff45-44f6-84f2-63a025958f6d",
+      "type": "Euca",
+      "date": "2026-09-18",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "e9aac0cd-b0cb-4ea7-9c4f-7c6465189022",
+      "type": "Euca",
+      "date": "2026-09-19",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "01c7f225-817b-4fa7-b6e5-81af6a7e639c",
+      "type": "Plate",
+      "date": "2026-09-20",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "fc803fc7-68da-4dec-b48e-84091e02fafa",
+      "type": "Euca",
+      "date": "2026-09-24",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "4e88357d-e465-4b49-8767-289cf937b3f1",
+      "type": "Euca",
+      "date": "2026-09-25",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "0bb21d75-86a4-4f2e-a123-ee6ed8577fc6",
+      "type": "Euca",
+      "date": "2026-09-26",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "de0a2f4d-5577-4efc-a65b-c3e8ca321f34",
+      "type": "Plate",
+      "date": "2026-09-27",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "93661d15-d625-464d-8ff7-46c9f60d0afb",
+      "type": "Euca",
+      "date": "2026-10-01",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "de8c09eb-632d-4823-844d-eb1c447385a6",
+      "type": "Euca",
+      "date": "2026-10-02",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "0338d7f3-5198-470c-add4-e21deb53c5f8",
+      "type": "Euca",
+      "date": "2026-10-03",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "5bdf8d96-2cdf-4e13-8af2-6f55b164b518",
+      "type": "Plate",
+      "date": "2026-10-04",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "2985e8ae-b913-43b9-a232-dea4737c60cd",
+      "type": "Euca",
+      "date": "2026-10-08",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "5dbe8ee3-cc75-4ae8-ba17-b0517bfcc7ce",
+      "type": "Euca",
+      "date": "2026-10-09",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "d278aaa6-e7ca-4058-badc-4a9a855343ce",
+      "type": "Euca",
+      "date": "2026-10-10",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "939a2fb2-d6f3-477c-878a-63cd258aaabd",
+      "type": "Plate",
+      "date": "2026-10-11",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "8bda3a1b-0f33-4fae-a12f-8779c29f8db3",
+      "type": "Euca",
+      "date": "2026-10-15",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "d03c185f-2422-473d-a51f-ffb532ade666",
+      "type": "Euca",
+      "date": "2026-10-16",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "106a14a1-3985-43a5-b0d3-7d83f2598c4d",
+      "type": "Euca",
+      "date": "2026-10-17",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "4ee317f7-8f46-4ce5-8f06-3a05a2baadff",
+      "type": "Plate",
+      "date": "2026-10-18",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "776434f8-56ac-49d2-9ecb-cbc53501763a",
+      "type": "Euca",
+      "date": "2026-10-22",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "0b0b2181-6a58-4159-a7c2-24d8b9f364cf",
+      "type": "Euca",
+      "date": "2026-10-23",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "7860104b-87fd-48ec-97c5-78ef5457e4d5",
+      "type": "Euca",
+      "date": "2026-10-24",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "7c7e33bc-1f22-40ef-ae82-9f02027d3749",
+      "type": "Plate",
+      "date": "2026-10-25",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "5cfe2b3a-11c1-4d92-8519-fe9d67c29a14",
+      "type": "Euca",
+      "date": "2026-10-29",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "5c1e5b91-bb21-4749-852b-a3e4b84f5094",
+      "type": "Euca",
+      "date": "2026-10-30",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "e24396fc-70bc-4820-89c5-9ca8b1ab534f",
+      "type": "Euca",
+      "date": "2026-10-31",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "6696bfd8-8ea5-44b0-81ac-143468841976",
+      "type": "Plate",
+      "date": "2026-11-01",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "4db39257-28ca-4b27-97ca-6793c38440f3",
+      "type": "Euca",
+      "date": "2026-11-05",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "a53b3b04-a8de-40eb-8f46-da280646eb1b",
+      "type": "Euca",
+      "date": "2026-11-06",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "f1ebddf9-be6a-4597-99f3-541cd6e62328",
+      "type": "Euca",
+      "date": "2026-11-07",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "27054698-6ca0-4c48-9ec5-4567f502916d",
+      "type": "Plate",
+      "date": "2026-11-08",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "40263661-f190-464d-9b81-18c08f7a288f",
+      "type": "Euca",
+      "date": "2026-11-12",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "ed3005f8-e723-499a-9ebf-47efeb9f2618",
+      "type": "Euca",
+      "date": "2026-11-13",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "a2290802-9cc3-4e3f-82ac-4e5ef4174bc9",
+      "type": "Euca",
+      "date": "2026-11-14",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "a865d2b1-9d91-4e91-96ea-a36af246cb73",
+      "type": "Plate",
+      "date": "2026-11-15",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "57010053-fa81-4980-9b2e-36dde33563a9",
+      "type": "Euca",
+      "date": "2026-11-19",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "b23359e3-a3bf-463a-9fab-0e35c15589cc",
+      "type": "Euca",
+      "date": "2026-11-20",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "4ba0cf8b-6b6f-45c3-a349-b424738e7198",
+      "type": "Euca",
+      "date": "2026-11-21",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "171c09b2-6c40-4408-b4bc-0153511850eb",
+      "type": "Plate",
+      "date": "2026-11-22",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "5b9fca82-50f5-4ec2-854d-217d085a23b2",
+      "type": "Euca",
+      "date": "2026-11-26",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "4a1eb880-502d-461c-a4ee-6ac77acee947",
+      "type": "Euca",
+      "date": "2026-11-27",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "db390d56-3fd2-4dfb-b4af-fc26f4840a8c",
+      "type": "Euca",
+      "date": "2026-11-28",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "014fa197-48f5-4524-825a-b37c1b2e04ca",
+      "type": "Plate",
+      "date": "2026-11-29",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "216e5e7b-3e70-4042-a4fb-99b4f0f7f49a",
+      "type": "Euca",
+      "date": "2026-12-03",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "432cee10-e802-4784-be6e-22ec3abe9afa",
+      "type": "Euca",
+      "date": "2026-12-04",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "1955f8a1-864a-480e-bb32-b25ab2bf62f6",
+      "type": "Euca",
+      "date": "2026-12-05",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "be8cb475-fee4-4cba-a03c-de86c9142617",
+      "type": "Plate",
+      "date": "2026-12-06",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "5e7afaff-8989-49b4-bff0-682707c04d68",
+      "type": "Euca",
+      "date": "2026-12-10",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "9094bfa0-5cd4-470d-bde0-d2cb2d97b407",
+      "type": "Euca",
+      "date": "2026-12-11",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "6f2e658e-9bd2-4a3b-bb66-fc72b79ea538",
+      "type": "Euca",
+      "date": "2026-12-12",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "1bfa39be-0b58-4171-8360-b7ffed664e2a",
+      "type": "Plate",
+      "date": "2026-12-13",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "21194cc9-a839-4de2-acbc-bc2c01a0face",
+      "type": "Euca",
+      "date": "2026-12-17",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "75f79ee4-d4e8-4f5c-a003-69938ce20dca",
+      "type": "Euca",
+      "date": "2026-12-18",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "f9bb2326-dc05-4454-b0b3-55fffa26a6b1",
+      "type": "Euca",
+      "date": "2026-12-19",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "de0a2fc6-0eef-4648-836c-c70db945193e",
+      "type": "Plate",
+      "date": "2026-12-20",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "df74bebc-4b9c-47fc-a9fa-c5c382d0b370",
+      "type": "Euca",
+      "date": "2026-12-24",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "b94ce6e6-463c-488c-94c6-54634a193abd",
+      "type": "Euca",
+      "date": "2026-12-25",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "00819f6f-55a1-4049-9605-5e534cf9218b",
+      "type": "Euca",
+      "date": "2026-12-26",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "1092effd-c50b-4a07-8fe6-b853206dd195",
+      "type": "Plate",
+      "date": "2026-12-27",
+      "time": "14:00 a 19:00",
+      "status": "pendiente"
+    },
+    {
+      "id": "78ba6195-b42f-48c2-897e-4aa77362366c",
+      "type": "Euca",
+      "date": "2026-12-31",
+      "time": "11:00 a 19:00",
+      "status": "pendiente"
+    }
+  ]
+}
